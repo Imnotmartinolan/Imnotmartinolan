@@ -64,7 +64,7 @@
   <div class="section">
     <h2>Formación Académica</h2>
     <ul>
-      <li><strong>Licenciatura en Ingeniería</strong> - Universidad Autónoma del Carmen (2023 - Presente)</li>
+      <li><strong>Licenciatura en Ingeniería</strong> - Universidad Autónoma del Carmen ( 2024 - Presente)</li>
     </ul>
   </div>
 

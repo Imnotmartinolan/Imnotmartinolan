@@ -31,7 +31,7 @@
   <div class="section">
     <h2>Formación Académica</h2>
     <ul>
-      <li>Licenciatura en [Tu carrera o especialidad] - Universidad Autónoma del Carmen</li>
+      <li>Licenciatura en - Universidad Autónoma del Carmen</li>
     </ul>
   </div>
 

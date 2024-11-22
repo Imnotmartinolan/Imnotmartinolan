@@ -31,6 +31,13 @@
     p {
       margin-bottom: 10px;
     }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -41,8 +48,16 @@
   <div class="section">
     <h2>Datos Personales</h2>
     <p><strong>Nombre:</strong> Martin Olan de los Santos</p>
-    <p><strong>Email:</strong> <a href="mailto:martinolandelosantos@gmail.com">martinolandelosantos@gmail.com</a></p>
+    <p><strong>Localidad:</strong> Frontera, Centla, Tabasco</p>
+    <p><strong>Email Personal:</strong> <a href="mailto:martinolandelosantos@gmail.com">martinolandelosantos@gmail.com</a></p>
+    <p><strong>Email Institucional:</strong> <a href="mailto:241510@mail.unacar.mx">241510@mail.unacar.mx</a></p>
     <p><strong>Teléfono:</strong> 9933097478</p>
+    <p><strong>Matrícula:</strong> 241510</p>
+    <p><strong>Redes Sociales:</strong></p>
+    <ul>
+      <li>Instagram: <a href="https://www.instagram.com/Imnot_martinolan" target="_blank">@Imnot_martinolan</a></li>
+      <li>Facebook: <a href="https://www.facebook.com/Martin Olan" target="_blank">Martin Olan</a></li>
+    </ul>
   </div>
 
   <!-- Formación Académica -->
@@ -89,4 +104,3 @@
 
 </body>
 </html>
-

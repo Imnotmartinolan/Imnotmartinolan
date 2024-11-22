@@ -64,7 +64,7 @@
   <div class="section">
     <h2>Formación Académica</h2>
     <ul>
-      <li><strong>Licenciatura en Ingeniería</strong> - Universidad Autónoma del Carmen ( 2024 - Presente)</li>
+      <li><strong>Licenciatura en Ingeniería</strong> - Universidad Autónoma del Carmen (2023 - Presente)</li>
     </ul>
   </div>
 
@@ -72,8 +72,8 @@
   <div class="section">
     <h2>Experiencia Laboral</h2>
     <ul>
-      <li><strong>Prácticas en Tornos</strong> - Estadía completa (2023)</li>
-      <p>Durante mis prácticas, adquirí habilidades en el uso de tornos para la fabricación de piezas mecánicas, desarrollando una comprensión sólida del proceso de mecanizado y seguridad industrial.</p>
+      <li><strong>Ayudante General</strong> - Taller de Ingeniería y Soluciones Metalmecánicas (ISM), Frontera, Centla, Tabasco (2023 - 2024)</li>
+      <p>Trabajé como ayudante general en ISM mientras aún cursaba la preparatoria. Durante este tiempo, adquirí conocimientos y experiencia en tornos, soldaduras y otros procesos metalmecánicos. Esta oportunidad me permitió desarrollar habilidades técnicas clave en el sector industrial.</p>
     </ul>
   </div>
 
@@ -84,6 +84,7 @@
       <li>Conocimiento básico de tornos y mecanizado</li>
       <li>Competencias básicas en Microsoft Office (Word, Excel, PowerPoint)</li>
       <li>Interés en el desarrollo de sitios web (HTML, CSS)</li>
+      <li>Soldadura básica</li>
     </ul>
   </div>
 
@@ -99,7 +100,10 @@
   <!-- Formaciones Adicionales -->
   <div class="section">
     <h2>Formaciones Adicionales</h2>
-    <p>No se cuenta con formaciones adicionales en este momento.</p>
+    <ul>
+      <li>Curso de Introducción a la Soldadura - 2023 (Prácticas en taller)</li>
+      <li>Formación en uso básico de herramientas de mecanizado (Tornos) - 2023</li>
+    </ul>
   </div>
 
 </body>
